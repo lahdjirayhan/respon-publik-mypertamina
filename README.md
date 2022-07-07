@@ -1,6 +1,8 @@
 Respon Publik kepada MyPertamina setelah Diwajibkan: Sebuah Pendekatan Data Science
 =======
 
+RAYHAN LAHDJI
+
 Belakangan ini, katanya, aplikasi MyPertamina wajib digunakan jika hendak membeli BBM di SPBU. Sepertinya akan jadi *side project* yang seru melihat bagaimana respon masyarakat terhadap berita yang menghebohkan ini. Saya mengumpulkan data ulasan pengguna aplikasi MyPertamina di Google Play Store lalu mencoba ulik-ulik, siapa tahu dapat informasi menarik. Saya mengumpulkan data dengan cara *web scraping*.
 
 Aplikasi MyPertamina sebenarnya sudah ada sejak agak lama. Google Play Store mencatat tanggal rilis pertama adalah 8 Agustus 2017. Saya sendiri sudah sering lihat di SPBU ada poster yang intinya mengajak install aplikasi, nanti akan dapat rewards. Saya dari dulu tidak pernah coba install karena HP saya gampang penuh -- dan karena saya kurang percaya aplikasinya bakalan bagus. Takut cuma *gimmick* dan kurang berguna.
