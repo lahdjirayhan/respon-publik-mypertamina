@@ -37,8 +37,6 @@ Lah, iya juga ya. Katanya, tidak boleh merokok, menggunakan kamera, dan mengguna
 
 Singkat cerita, begitulah yang bisa dilihat dari kolom ulasan MyPertamina di Google Play Store. Saya iseng melakukan koding untuk *scraping* dan analisis pada tanggal 4 Juli lalu, sehingga boleh jadi kondisinya sudah berubah sekarang.
 
-Jika tertarik, bolehlah mampir ke laman repositori Github saya untuk lihat kodingan beserta file hasilnya di link berikut:
-
-https://github.com/lahdjirayhan/respon-publik-mypertamina
+Jika tertarik, bolehlah mampir ke laman repositori Github saya untuk lihat kodingan beserta file hasilnya di [sini](https://github.com/lahdjirayhan/respon-publik-mypertamina)
 
 P.S.: Jika Anda *recruiter*, boleh juga menghubungi saya buat *ngasih* pekerjaan. Hehehe.
